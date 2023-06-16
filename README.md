@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **rasyadbimasatya04@gmail.com**
 
-- ⚡ Fun fact **Love Books, Anime, Manga and Other Japanese Cultures🗾**
+- ⚡ Fun fact **Love Books, Anime, Manga and Japanese Cultures🗾**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
