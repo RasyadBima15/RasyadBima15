@@ -5,11 +5,11 @@
 </div>
 <h1 align="center">Hi 👋, I'm Rasyad Bimasatya</h1>
 <h3 align="center">The person who has a strong passion for software development, specifically focusing on Back-End web development🌐. I also passionate in the field of Artificial Intelligence🤖</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6e/b3/c7/6eb3c775c064baff9b9f085e8f3f91d1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasyadbima15&label=Profile%20views&color=0e75b6&style=flat" alt="rasyadbima15" /> </p>
 
 - 🔭 I’m currently student on [Information Systems at Hasanuddin University](http://is.sci.unhas.ac.id/)
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6e/b3/c7/6eb3c775c064baff9b9f085e8f3f91d1.gif">
 
 - 🌱 I’m currently learning **Laravel, Bootstrap, Database**
 
