@@ -1,8 +1,8 @@
-<div align="center">
+<p align="center">
   <a href="https://rishavchanda.io">
-    <img src="https://i.pinimg.com/originals/69/a8/c4/69a8c4c85ceb7dda7019866f50bbf75e.gif" alt="MasterHead">
+    <img src="https://i.pinimg.com/originals/69/a8/c4/69a8c4c85ceb7dda7019866f50bbf75e.gif" alt="MasterHead" width="100%">
   </a>
-</div>
+</p>
 <h1 align="center">Hi 👋, I'm Rasyad Bimasatya</h1>
 <h3 align="center">The person who has a strong passion for software development, specifically focusing on Back-End web development🌐. I also passionate in the field of Artificial Intelligence🤖</h3>
 
