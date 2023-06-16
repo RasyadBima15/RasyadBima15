@@ -3,7 +3,7 @@
     <img src="https://i.pinimg.com/originals/65/c7/d4/65c7d4a8f34de11f9414ce49b847e56a.gif" alt="MasterHead" width="650">
   </a>
 </div>
-<h1 align="center">Hi 👋, I'm Rasyad Bimasatya</h1>
+<h1 align="center">Hi!👋🙌, I'm Rasyad Bimasatya</h1>
 <h3 align="center">A passionate software development🌐, also in the field of Artificial Intelligence🤖</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/psQzFHIko4MAAAAd/study-anime.gif">
 
