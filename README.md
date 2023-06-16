@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rasyad Bimasatya</h1>
 <h3 align="center">The person who has a strong passion for software development, specifically focusing on Back-End web development🌐. I also passionate in the field of Artificial Intelligence🤖</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasyadbima15&label=Profile%20views&color=0e75b6&style=flat" alt="rasyadbima15" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasyadbima15" alt="rasyadbima15" /></a> </p>
