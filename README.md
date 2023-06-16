@@ -1,11 +1,11 @@
 <div align="center">
   <a href="https://rishavchanda.io">
-    <img src="https://i.pinimg.com/originals/00/46/5f/00465fd13b59f496ae0b2ad3c104b340.gif" alt="MasterHead">
+    <img src="https://i.pinimg.com/originals/65/c7/d4/65c7d4a8f34de11f9414ce49b847e56a.gif" alt="MasterHead">
   </a>
 </div>
 <h1 align="center">Hi 👋, I'm Rasyad Bimasatya</h1>
 <h3 align="center">The person who has a strong passion for software development, specifically focusing on Back-End web development🌐. I also passionate in the field of Artificial Intelligence🤖</h3>
-<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/6e/b3/c7/6eb3c775c064baff9b9f085e8f3f91d1.gif" />
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6e/b3/c7/6eb3c775c064baff9b9f085e8f3f91d1.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasyadbima15&label=Profile%20views&color=0e75b6&style=flat" alt="rasyadbima15" /> </p>
 
