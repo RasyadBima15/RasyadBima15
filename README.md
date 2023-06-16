@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://rishavchanda.io">
-    <img src="https://i.pinimg.com/originals/65/c7/d4/65c7d4a8f34de11f9414ce49b847e56a.gif" alt="MasterHead" width="595">
+    <img src="https://i.pinimg.com/originals/65/c7/d4/65c7d4a8f34de11f9414ce49b847e56a.gif" alt="MasterHead" width="650">
   </a>
 </div>
 <h1 align="center">Hi 👋, I'm Rasyad Bimasatya</h1>
