@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Laravel, Bootstrap, Database**
 
-- 👯 I’m looking to collaborate to **anyone🤝**
+- 👯 I’m looking to collaborate **anyone🤝**
 
 - 💬 Ask me about **Node.js, Hapi.js, MySQL**
 
