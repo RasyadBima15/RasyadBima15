@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently student on [Information Systems at Hasanuddin University](http://is.sci.unhas.ac.id/)
 
-- 🌱 I’m currently learning **GoLang, Database**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate **anyone🤝**
 
