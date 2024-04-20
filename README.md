@@ -16,8 +16,6 @@
 
 - 👯 I’m looking to collaborate **anyone🤝**
 
-- 💬 Ask me about **Node.js, Hapi.js, MySQL**
-
 - 📫 How to reach me **rasyadbimasatya04@gmail.com**
 
 - ⚡ Fun fact **Love Books, Anime, Manga and Japanese Cultures🗾**
