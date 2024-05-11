@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Hi!👋, I'm Rasyad Bimasatya</h1>
-<h3 align="center">A passionate software development🌐, also in the field of Artificial Intelligence🤖</h3>
+<h3 align="center">A passionate Data📈 & Artificial Intelligence🤖</h3>
 <img align="right" alt="Coding" width="380" src="https://media.tenor.com/psQzFHIko4MAAAAd/study-anime.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasyadbima15&label=Profile%20views&color=0e75b6&style=flat" alt="rasyadbima15" /> </p>
